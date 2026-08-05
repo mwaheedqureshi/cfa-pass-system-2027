@@ -14,3 +14,5 @@ textarea{width:100%;min-height:80px;margin:12px 0;padding:10px;border:1px solid 
 input[type=number]{width:90px}.card ol{margin-bottom:0}.card .notice{margin-bottom:0}
 
 .lesson{padding-top:14px}.lead{font-size:17px;line-height:1.7}.example{background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:14px;margin:10px 0}.tablewrap{overflow:auto;margin:12px 0}.lesson table{min-width:650px}.lesson h3{margin-top:22px}.lesson .pill{margin-bottom:6px}
+
+.formulaExplorerCard{margin-top:12px}.formulaExplorerCard .formula{font-size:15px}.topicSearchCard{cursor:pointer}.topicSearchCard:hover{transform:translateY(-2px)}
