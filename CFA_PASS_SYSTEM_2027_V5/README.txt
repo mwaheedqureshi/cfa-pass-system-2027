@@ -1,27 +1,23 @@
-CFA PASS SYSTEM — Level I 2027, V5 FSA Core Course Part 1
+CFA PASS SYSTEM — Level I 2027, V7
 
-NEW IN V5
-- First 5 of 12 Financial Statement Analysis modules completed:
-  1. Introduction to Financial Statement Analysis
-  2. Analyzing Income Statements
-  3. Analyzing Balance Sheets
-  4. Analyzing Statements of Cash Flows I
-  5. Analyzing Statements of Cash Flows II
-- 5-minute summaries
-- Detailed explanations
-- Comparison and interpretation tables
-- 13 step-by-step worked examples
-- Common exam traps and memory aids
-- 75 new module-specific explained questions
-- One-click quiz for each completed FSA module
-- All previous V4/V3 content and functionality retained
+NEW IN V7
+- Complete lesson: Ethics and Trust in the Investment Profession
+- Complete lesson: Code of Ethics and Standards of Professional Conduct
+- Complete lesson: Time Value of Money in Finance
+- Ethics decision framework and Standards reference table
+- BA II Plus time-value-of-money workflow
+- 8 new worked examples
+- 65 new module-specific explained questions
+- Generic lesson engine now supports complete lessons in every topic
+- Module quizzes now work for FSA, Ethics, Quantitative Methods and future topics
+- Progress storage upgraded to V7
 
-TOTAL QUESTION BANK
-- 274 original explained questions
+CURRENT CONTENT
+- 7 complete FSA lessons
+- 2 complete Ethics lessons
+- 1 complete Quantitative Methods lesson
+- 379 original explained questions
+- 99 official modules and 329 official learning outcomes
 
-VERIFIED STRUCTURE
-- 99 official modules
-- 329 official learning outcomes
-- Official 2027 Level I topic outline included
-
-Open index.html after extracting the ZIP.
+OPEN
+Open CFA_PASS_SYSTEM_2027_V5/index.html after extracting the ZIP.
