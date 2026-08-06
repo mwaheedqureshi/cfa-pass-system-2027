@@ -1,19 +1,28 @@
-CFA PASS SYSTEM — Level I 2027, V9
+CFA PASS SYSTEM — Level I 2027, V10 FINAL CORE RELEASE
 
-NEW IN V9
-- Equity valuation and dividend discount models
-- Bond pricing and yield measures
-- Options payoffs, profits, moneyness, and put-call parity
-- Portfolio risk, return, and diversification
+NEW IN V10
+- Alternative Investments: Private Capital and Real Estate
+- Corporate Finance: Working Capital and Liquidity
+- Quantitative Methods: Probability and Expected Value
+- Ethics: Material Nonpublic Information and Market Integrity
 - 8 new worked examples
-- 80 new explained questions
-- Formula Explorer additions
-- Progress migration upgraded to V9
+- 60 new explained questions
+- Final Review Centre
+- Seven-day revision plan
+- Exam-day checklist
+- Readiness snapshot
+- V10 progress migration and export
 
-CURRENT CONTENT
-- 18 in-depth lessons
-- 554 original explained questions
-- 99 official modules and 329 official learning outcomes
+FINAL CORE CONTENT
+- 22 in-depth lessons
+- 611 original explained questions
+- 99 official modules represented
+- 329 official learning outcomes
+- Formula Explorer
+- Timed 90-question sessions
+- Confidence-based review
+- Incorrect-answer retesting
+- Notes, bookmarks, search, import/export, dark mode
 
 OPEN
 Open CFA_PASS_SYSTEM_2027_V5/index.html.
